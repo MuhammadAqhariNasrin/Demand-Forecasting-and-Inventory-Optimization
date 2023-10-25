@@ -6,6 +6,10 @@ Created on Tue Oct 24 23:13:01 2023
 """
 
 import streamlit as st
+import subprocess
+
+
+subprocess.call("pip install prophet", shell=True)
 from prophet import Prophet
 import pandas as pd
 import matplotlib.pyplot as plt
