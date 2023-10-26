@@ -1,6 +1,8 @@
+pandas==1.2.2
+pystan==2.19.1.1
+holidays==0.10.5.2
 fbprophet==0.7.1
-tabulate==0.9.0
-numpy==1.26.1
-holidays==0.35
 plotly==4.14.3
-streamlit==1.27.0
+altair==4.1.0
+streamlit==0.77.0
+numpy==1.19.2
