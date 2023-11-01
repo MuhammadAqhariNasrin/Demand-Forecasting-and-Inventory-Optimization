@@ -31,7 +31,7 @@ To access the Streamlit-powered dashboard, please click on the following link:
 
 [Download Sample Data File](https://data.mendeley.com/datasets/8gx2fvg2k6/5)
 
-## Rn Locally
+## Run Locally
 
 ![image](https://github.com/MuhammadAqhariNasrin/Demand-Forecasting-and-Inventory-Optimization/assets/55645968/3ba285ea-dd06-4dff-8ce5-c702e07fc07a)
 
