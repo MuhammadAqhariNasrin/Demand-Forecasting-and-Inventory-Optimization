@@ -9,8 +9,8 @@ Welcome to the Demand Forecasting and Inventory Optimization project. This tool 
 - [Key Features](#key-features)
 - [Usage](#usage)
 - [Sample Data](#sample-data)
+- [Run Locally](#run-locally)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Key Features
@@ -30,5 +30,21 @@ To access the Streamlit-powered dashboard, please click on the following link:
 ## Sample Data
 
 [Download Sample Data File](https://data.mendeley.com/datasets/8gx2fvg2k6/5)
+
+## Rn Locally
+
+![image](https://github.com/MuhammadAqhariNasrin/Demand-Forecasting-and-Inventory-Optimization/assets/55645968/3ba285ea-dd06-4dff-8ce5-c702e07fc07a)
+
+![image](https://github.com/MuhammadAqhariNasrin/Demand-Forecasting-and-Inventory-Optimization/assets/55645968/8dbfe36c-9c41-4837-8a61-0a961c9a445a)
+
+
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Contact
+
+LinkedIn : [Muhammad Aqhari Nasrin](https://www.linkedin.com/in/muhammad-aqhari-nasrin-bin-ramli/)
 
 
